@@ -1,0 +1,15 @@
+/home/vinicius/Área de Trabalho/exercise-conjuntos/bin/Debug/net6.0/exercise-conjuntos
+/home/vinicius/Área de Trabalho/exercise-conjuntos/bin/Debug/net6.0/exercise-conjuntos.deps.json
+/home/vinicius/Área de Trabalho/exercise-conjuntos/bin/Debug/net6.0/exercise-conjuntos.runtimeconfig.json
+/home/vinicius/Área de Trabalho/exercise-conjuntos/bin/Debug/net6.0/exercise-conjuntos.dll
+/home/vinicius/Área de Trabalho/exercise-conjuntos/bin/Debug/net6.0/ref/exercise-conjuntos.dll
+/home/vinicius/Área de Trabalho/exercise-conjuntos/bin/Debug/net6.0/exercise-conjuntos.pdb
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.csproj.AssemblyReference.cache
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.AssemblyInfoInputs.cache
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.AssemblyInfo.cs
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.csproj.CoreCompileInputs.cache
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.dll
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/ref/exercise-conjuntos.dll
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.pdb
+/home/vinicius/Área de Trabalho/exercise-conjuntos/obj/Debug/net6.0/exercise-conjuntos.genruntimeconfig.cache
